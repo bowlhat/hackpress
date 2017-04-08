@@ -1,0 +1,17 @@
+{
+    "name": "bowlhat/hackpress",
+    "require": {
+        "facebook/xhp-lib": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "Daniel Llewellyn",
+            "email": "daniel@bowlhat.net"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
